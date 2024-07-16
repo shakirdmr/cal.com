@@ -326,6 +326,7 @@ dialog {
 }
 
 textarea {
+  height: 30px;
   resize: vertical
 }
 
